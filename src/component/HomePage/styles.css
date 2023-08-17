@@ -1,0 +1,28 @@
+.home{
+    display: flex;
+    gap: 10rem;
+    margin: 30px;
+    justify-content: space-around; 
+    /* margin-bottom: 20px; */
+}
+.home h2{
+    font-size: 50px;
+    color: #e81765;
+}
+.image1{
+    width: 250px;
+    height: 250px;
+}
+.icons{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    
+}
+.icon{
+    background-color: rgb(229, 236, 236);
+    width: 20%;
+    border-radius: 20px;
+    display: flex;
+    margin-bottom: 20px;
+}

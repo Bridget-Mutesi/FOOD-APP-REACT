@@ -1,0 +1,15 @@
+.categories{
+    display: flex;
+   justify-content: center;
+   gap: 10rem;
+   margin-bottom: 30px;
+ 
+}
+.categories.img{
+    width: 150px;
+    height: 100px;
+
+}
+.categories h4{
+    color: #e81765;
+}

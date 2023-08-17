@@ -1,0 +1,8 @@
+.footers{
+    display: flex;
+    /* justify-content: space-between; */
+    background-color: #e2a1b9;
+    /* width: 98%; */
+    gap: 10rem;
+    justify-content: center;
+}
